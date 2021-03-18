@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ajit2210.configgenerator.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ajit2210.configgenerator.MyBundle
 
 class MyApplicationService {
 
